@@ -1,3 +1,5 @@
+Terraform modeule to create VPC
+
 # Used to create VPC
 ```
 module "three-tier" {
